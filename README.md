@@ -1,0 +1,2 @@
+# myownlibraryfile
+bounceOff, isTouching
